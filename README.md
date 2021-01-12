@@ -1,4 +1,5 @@
 # bus_shooting_game
+https://github.com/ayoungkim-tech/bus_shooting_game
 This is the bus shooting game from the programming course at the university.  
 The bus time table is based on the Tampere, Finland Nysse bus.  
 # Motivation
