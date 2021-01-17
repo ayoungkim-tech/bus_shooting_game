@@ -17,5 +17,3 @@ The game time can be chosen by the user.
 [Figure1: Game Menu]
 ![Screenshot 2021-01-12 at 21 15 02](https://user-images.githubusercontent.com/76969129/104361842-ae332f00-551b-11eb-907d-c6491cf494ad.png)  
 [Figure2: Game Main Window]
-# Contribute
-Jori Rintakangas
